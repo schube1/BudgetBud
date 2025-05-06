@@ -16,7 +16,7 @@ BudgetBud is a simple personal budgeting app built with Python. It allows users 
    ```bash
    source venv311/bin/activate  # Mac/Linux
    venv311\Scripts\activate     # Windows
-3. Install Dependencies
+3. Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
